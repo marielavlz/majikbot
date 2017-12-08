@@ -1,0 +1,2 @@
+# majikbot
+For testing purposes
